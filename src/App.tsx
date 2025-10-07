@@ -455,12 +455,12 @@ const App = () => {
       <div className="flex h-screen max-h-screen overflow-hidden">
         <aside className="w-72 border-r border-white/5 bg-surface/70 backdrop-blur-lg p-6 flex flex-col gap-8 overflow-y-auto">
           <div className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl bg-primary/20 flex items-center justify-center text-primary font-semibold">
-              CW
+            <div className="min-w-[3.5rem] h-10 px-2 rounded-xl bg-primary/20 flex items-center justify-center text-primary font-semibold text-sm">
+              CS720
             </div>
             <div>
               <p className="text-xs text-white/50 uppercase tracking-[0.3em]">Suite</p>
-              <p className="text-lg font-semibold">CloudWorks</p>
+              <p className="text-lg font-semibold">CS720</p>
             </div>
           </div>
           <nav className="space-y-8">
