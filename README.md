@@ -1,4 +1,4 @@
-# CloudWorks Enterprise Dashboard
+# Customer Success 720 Dashboard
 
 A high-fidelity executive dashboard inspired by the provided design. Built with React, TypeScript, Vite, and Tailwind CSS.
 
